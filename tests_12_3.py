@@ -24,9 +24,9 @@
 # Ran 6 tests in 0.000s OK (skipped=3)
 
 import unittest
+
 from runner_and_tournament import Runner
 from runner_and_tournament import Tournament
-
 
 
 def skip_if_frozen(method):
